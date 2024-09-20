@@ -1,4 +1,4 @@
-This notebook explores tennis questions which aim to identify whether there is a relationship between age and surface on the success of tennis players. Specifically, we explore 3 sub-questions: whether male ATP players in different age brackets experience success at different rates (win percentage %) on the various tour surfaces, how total win counts for female WTA players vary across age brackets, and how doubles players experience success on the different surfaces.  
+This notebook explores tennis questions which aim to identify whether there is a relationship between age and surface on the success of tennis players. Specifically, we explore 3 sub-questions: whether male ATP players in different age brackets experience success at different rates (win percentage %) on the various tour surfaces, how total win counts for female WTA players vary across age brackets, and how doubles players experience success on the different surfaces. We include comments in our code to help make reading easier as well. 
 
 We used the following datasets in our analysis:
 - Kaggle ATP/WTA tennis: https://www.kaggle.com/code/ezrielstein/tennis
